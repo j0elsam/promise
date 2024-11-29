@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+
+}
+
+.abc{
+    display: inline-block;
+    position: absolute;
+    top: 55%;
+}
+
+#result{
+    position: relative;
+    top: 20px;
+
+}
+
+#Num{
+    position: relative;
+    left: 60px;
+    color: red;
+}
